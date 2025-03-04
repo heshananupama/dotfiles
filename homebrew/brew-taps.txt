@@ -1,0 +1,5 @@
+adoptopenjdk/openjdk
+azure/kubelogin
+hashicorp/tap
+jesseduffield/lazygit
+yoheimuta/protolint

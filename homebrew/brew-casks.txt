@@ -1,0 +1,6 @@
+adoptopenjdk11
+utm
+vagrant
+google-chrome
+visual-studio-code
+slack
