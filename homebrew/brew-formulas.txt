@@ -11,6 +11,7 @@ cryptography
 docker
 docker-completion
 dtc
+expat
 fd
 fontconfig
 freetype
@@ -24,7 +25,7 @@ go
 graphite2
 harfbuzz
 helm
-icu4c
+icu4c@77
 jpeg-turbo
 jq
 just
@@ -39,6 +40,7 @@ libidn2
 libnghttp2
 libpng
 libslirp
+libsodium
 libssh
 libssh2
 libtasn1
@@ -81,6 +83,7 @@ pycparser
 python-packaging
 python@3.11
 python@3.12
+python@3.13
 qemu
 readline
 ripgrep
@@ -101,4 +104,3 @@ xorgproto
 xz
 yq
 zstd
-

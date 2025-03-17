@@ -1,6 +1,7 @@
 adoptopenjdk11
+font-jetbrains-mono-nerd-font
+iterm2
+sublime-text
 utm
 vagrant
-google-chrome
 visual-studio-code
-slack
