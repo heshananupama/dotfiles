@@ -1,7 +1,10 @@
 adoptopenjdk11
+firefox
 font-jetbrains-mono-nerd-font
 iterm2
 sublime-text
+temurin
 utm
 vagrant
 visual-studio-code
+zoom

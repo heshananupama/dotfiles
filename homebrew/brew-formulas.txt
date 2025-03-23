@@ -1,5 +1,7 @@
 ansible
 azure-cli
+brotli
+c-ares
 ca-certificates
 cairo
 capstone
@@ -70,6 +72,7 @@ msgpack
 ncurses
 neovim
 nettle
+node
 oniguruma
 openjdk
 openssl@3
