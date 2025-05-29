@@ -1,5 +1,6 @@
 adoptopenjdk/openjdk
 azure/kubelogin
+elastic/tap
 hashicorp/tap
 jesseduffield/lazygit
 yoheimuta/protolint

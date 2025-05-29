@@ -2,6 +2,7 @@ adoptopenjdk11
 firefox
 font-jetbrains-mono-nerd-font
 iterm2
+slack
 sublime-text
 temurin
 utm
